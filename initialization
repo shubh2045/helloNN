@@ -1,0 +1,4 @@
+import numpy, random, os
+lr = 1                                                                    #learning rate
+bias = 1                                                                  #bias unit
+weights = [random.random(), random.random(), random.random()]             #weights
